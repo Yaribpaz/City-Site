@@ -1,0 +1,28 @@
+header {
+  font-family: sans-serif;
+}
+
+p {
+  border: 0.1rem solid black;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 2rem;
+}
+
+.NYC {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.leaders-table,
+th,
+td {
+  border: 1px solid;
+}
+
+th,
+td {
+  padding: 15px;
+}
